@@ -1,6 +1,6 @@
 import threading
 
-from base.window import *
+from window import *
 from core import *
 from constant import *
 
